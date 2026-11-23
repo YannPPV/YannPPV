@@ -8,15 +8,17 @@ Je n'aime pas utiliser du code que je ne comprends pas : je veux savoir pourquoi
 
 ## En quelques lignes
 
-```ts
-const yann = {
-  formation: "BTS SIO SLAM, EPSI Bordeaux",
-  ville: "Bordeaux",
-  objectif: "Alternance en développement logiciel",
-  disponibilite: "Septembre 2027",
-  approche: "Comprendre chaque ligne avant de l'écrire",
-  jeApprends: ["bases de données", "algorithmique", "systèmes"],
-};
+```console
+yann@bordeaux:~$ whoami
+Yann Popov
+
+yann@bordeaux:~$ cat profil.txt
+formation      BTS SIO SLAM, EPSI Bordeaux
+ville          Bordeaux
+objectif       Alternance en développement logiciel
+disponibilité  Septembre 2027
+approche       Comprendre chaque ligne avant de l'écrire
+j'apprends     bases de données, algorithmique, systèmes
 ```
 
 ## Technologies
