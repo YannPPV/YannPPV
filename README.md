@@ -23,7 +23,7 @@ j'apprends     bases de données, algorithmique, systèmes
 
 ## Technologies
 
-![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,php,py,nodejs,express,react,vue,vite,mysql)
+![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,php,symfony,py,nodejs,express,react,vue,vite,mysql)
 
 ## Outils
 
