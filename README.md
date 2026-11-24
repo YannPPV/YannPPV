@@ -23,27 +23,11 @@ j'apprends     bases de données, algorithmique, systèmes
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-1a2434?style=for-the-badge&logo=python&logoColor=f0b040)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a2434?style=for-the-badge&logo=javascript&logoColor=f0b040)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a2434?style=for-the-badge&logo=typescript&logoColor=f0b040)
-![Node.js](https://img.shields.io/badge/Node.js-1a2434?style=for-the-badge&logo=nodedotjs&logoColor=f0b040)
-![Express](https://img.shields.io/badge/Express-1a2434?style=for-the-badge&logo=express&logoColor=f0b040)
-![React](https://img.shields.io/badge/React-1a2434?style=for-the-badge&logo=react&logoColor=f0b040)
-![Vue.js](https://img.shields.io/badge/Vue.js-1a2434?style=for-the-badge&logo=vuedotjs&logoColor=f0b040)
-![MySQL](https://img.shields.io/badge/MySQL-1a2434?style=for-the-badge&logo=mysql&logoColor=f0b040)
-![PHP](https://img.shields.io/badge/PHP-1a2434?style=for-the-badge&logo=php&logoColor=f0b040)
-![Git](https://img.shields.io/badge/Git-1a2434?style=for-the-badge&logo=git&logoColor=f0b040)
+![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,php,py,nodejs,express,react,vue,vite,mysql)
 
-<details>
-<summary>Détail par catégorie</summary>
+## Outils
 
-- **Langages :** Python, JavaScript, TypeScript, SQL, HTML / CSS, PHP
-- **Backend :** Node.js, Express, API REST, authentification (JWT)
-- **Bases de données :** MySQL, SQL Server
-- **Frontend :** React, Vue 3, Vite
-- **Outils :** Git / GitHub, ESLint, VS Code
-
-</details>
+![Outils](https://skillicons.dev/icons?i=git,github,vscode,wordpress)
 
 ## Me contacter
 
